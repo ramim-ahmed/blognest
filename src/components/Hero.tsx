@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 export default function Hero() {
   return (
-    <div className="flex justify-center items-center min-h-[calc(100vh-125px)]">
+    <div className="flex justify-center items-center min-h-[calc(100vh-116px)]">
       <div className="text-center space-y-6">
         <h1 className="text-5xl font-bold">
           Welcome to{" "}
