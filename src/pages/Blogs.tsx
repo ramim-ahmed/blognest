@@ -8,7 +8,7 @@ export default function Blogs() {
   const blogs: any = useLoaderData();
   if (navigation.state === "loading") return <Loader />;
   return (
-    <div className="px-6 min-h-[calc(100vh-125px)] py-12 text-white">
+    <div className="px-6 min-h-[calc(100vh-125px)] py-12">
       <div className="space-y-6 sm:space-y-12">
         <Link
           to={`/blog/${blogs[0].id}`}
