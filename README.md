@@ -6,7 +6,7 @@ Live site:
 
 Resources:
 
-- [React Router Dom](https://reactrouter.com/en/main)
+- [React Router Dom](https://reactrouter.com/en/main): [For navigate to page withour refresh]
 - [Tailwindcss Buttons](https://devdojo.com/tailwindcss/buttons)
 - [Mamba UI - Components](https://mambaui.com/components)
 - [Animated Gradient Text](https://www.andrealves.dev/blog/how-to-make-an-animated-gradient-text-with-tailwindcss/)
